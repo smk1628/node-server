@@ -1,0 +1,22 @@
+{
+  "name": "test_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smk1628/node-server.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "smk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smk1628/node-server/issues"
+  },
+  "homepage": "https://github.com/smk1628/node-server#readme"
+}
